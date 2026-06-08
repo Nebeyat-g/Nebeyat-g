@@ -71,10 +71,6 @@ While I’m comfortable across the **full stack**, I have a strong interest in *
 
 ![Top Languages](https://shion.dev)
 
-## 📊 GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebeyat-g&layout=compact&theme=tokyonight)](https://github.com/Nebeyat-g)
-
 ---
 
 ## 📫 Connect With Me
